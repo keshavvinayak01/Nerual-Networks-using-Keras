@@ -3,19 +3,19 @@
 
 #Contains a two layer ANN and a two convo-pooling layered CNN
 
-ANN:
+# ANN:
 
 #to get the various features of costumers of a hypothetical bank, and uses it to predict whether the costumer leaves or stays
 
 #can be applied to equiavalent classification problem
 
-# dataset Sorce: Superdatascience.com
+## dataset Sorce: Superdatascience.com
 
-CNN:
+# CNN:
 
 #the classic CNN that classifies the image as a DOG or a CAT
 
-# dataset Source : Superdatascience.com
+## dataset Source : Superdatascience.com
 
 *The CNN model was trained on 8000 images(equally for cats and dogs), and 2000 test images were tested. *
 
