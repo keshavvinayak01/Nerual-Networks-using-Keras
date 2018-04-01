@@ -17,6 +17,11 @@ CNN:
 
 # dataset Source : Superdatascience.com
 
+*The CNN model was trained on 8000 images(equally for cats and dogs), and 2000 test images were tested. *
+
+*Also, the data was neatly categorized into training set and test set, with the dogs and the cats seperated into folders*
+
+
 
 
 
